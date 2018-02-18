@@ -1,0 +1,11 @@
+{
+  "name": "rowinia",
+  "version": "0.0.1",
+  "description": "PlainJs based functions for simple webpages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matthew B White - based on PlainJS",
+  "license": "MIT"
+}
